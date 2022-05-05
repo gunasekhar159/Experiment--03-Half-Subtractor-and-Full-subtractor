@@ -63,32 +63,32 @@ endmodule
 
 ## Output:
 ## HALF SUBTRACTOR
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/11.png/raw=true)
 
 ## Truthtable
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/12.png?raw=true)
 
 
 
 
 ##  RTL realization
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/13.png?raw=true)
 
 
 ## Timing diagram 
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/14.png?raw=true)
 
 ## FULL SUBTRACTOR
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/15.png?raw=true)
 
 ## Truthtable
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/16.png?raw=true)
 
 ## RTL realization
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/17.png?raw=true)
 
 ## Timing diagram
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/18.png?raw=true)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
